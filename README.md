@@ -58,6 +58,18 @@ O dashboard apresenta a média do valor de venda por país, demonstrada em um ma
 Todas as perguntas de negócio propostas foram respondidas por meio de medidas e visualizações interativas, resultando em um dashboard que permite:
 
 - acompanhar o desempenho geral das vendas;
+
+- ## 👨‍💻 Autor
+
+Frank Rijkaard
+
+Estudante de Análise e Desenvolvimento de Sistemas com foco em análise de dados, Business Intelligence e desenvolvimento de soluções baseadas em dados.
+
+LinkedIn:
+https://www.linkedin.com/in/seu-link
+
+GitHub:
+https://github.com/seuusuario
 - analisar o comportamento por categoria e subcategoria de produtos;
 - comparar países considerando a prioridade de entrega;
 - identificar os países com maior média de valor de venda por meio de um mapa.
